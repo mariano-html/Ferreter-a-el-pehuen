@@ -1,2 +1,2 @@
-# Ferreter-a-el-pehuen
+# Ferreteria-el-pehuen
 proyecto individual
